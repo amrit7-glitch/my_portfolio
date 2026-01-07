@@ -17,6 +17,14 @@ function Projects() {
       img: "green_leaves_logo.jpg",
       link: "https://github.com/amrit7-glitch/HackIndia-Spark-8-2025-FarmBotics",
       color: "from-green-400 to-cyan-500"
+    },
+    {
+      title: "Raffle",
+      description:
+        "An smart Raffle system with chainlink vrf and automation integrated for fair system.",
+      img: "Raffle.jpg",
+      link: "https://github.com/amrit7-glitch/raffle-contract",
+      color: "from-green-400 to-cyan-500"
     }
   ];
 
