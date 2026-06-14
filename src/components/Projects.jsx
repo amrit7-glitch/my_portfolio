@@ -2,6 +2,14 @@ import React from "react";
 
 function Projects() {
   const projects = [
+     {
+      title: "TRUSTSPLIT",
+      description:
+        "A decentralized trust management platform for secure and transparent transactions.",
+      img: "TRUSTSPLIT_LOGO.png",
+      link: "https://github.com/amrit7-glitch/TRUSTSPLIT",
+      color: "from-pink-500 to-purple-500"
+    },
     {
       title: "Blog App",
       description:
