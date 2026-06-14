@@ -23,7 +23,7 @@ function Home() {
         >
           <div className="relative p-2 rounded-3xl bg-white/10 backdrop-blur-lg shadow-lg border border-white/20 hover:scale-105 transition-transform duration-500">
             <img
-              src="/amrit_img.jpg"
+              src="/pic.jpg"
               alt="Amrit Raj"
               className="w-72 h-72 md:w-80 md:h-80 object-cover rounded-2xl shadow-xl"
             />
@@ -46,9 +46,9 @@ function Home() {
           </h1>
 
           <p className="text-lg md:text-xl text-gray-300 leading-relaxed">
-            I'm a passionate{" "}
+            I'm a javascript{" "}
             <span className="text-purple-400 font-semibold">
-              Full Stack Developer
+              backend Developer
             </span>{" "}
             specializing in the{" "}
             <span className="font-semibold text-pink-400">MERN stack</span>, 
