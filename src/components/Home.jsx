@@ -23,7 +23,7 @@ function Home() {
         >
           <div className="relative p-2 rounded-3xl bg-white/10 backdrop-blur-lg shadow-lg border border-white/20 hover:scale-105 transition-transform duration-500">
             <img
-              src="/pic.jpg"
+              src="/pic.png"
               alt="Amrit Raj"
               className="w-72 h-72 md:w-80 md:h-80 object-cover rounded-2xl shadow-xl"
             />
