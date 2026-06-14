@@ -2,6 +2,14 @@ import React from "react";
 
 function Projects() {
   const projects = [
+    {
+      title: "Anonymous-Feedback-Wall",
+      description:
+        "A platform for submitting and viewing anonymous feedback across different devices simultaneously.",
+      img: "Anonymous.png",
+      link: "https://github.com/amrit7-glitch/anonymous-feedback-wall",
+      color: "from-pink-500 to-purple-500"
+    },
      {
       title: "TRUSTSPLIT",
       description:
